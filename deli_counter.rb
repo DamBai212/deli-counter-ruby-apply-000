@@ -25,4 +25,3 @@ katz_deli = []
       array.shift
     end
   end
-      
